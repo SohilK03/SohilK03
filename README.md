@@ -43,6 +43,7 @@ Talk to me about
 - Making for **Relational Database Management Systems** using **SQL** (MySQL) as well as **NoSQL** (MongoDB) databases
 - Desktop application development using **Python & Electron**(Still learning)
 - Solving Data structure and algorithm questions in **Python**
+- Data mining,data cleaning,data visualization and predictions based on ML & AI in **Python**
 
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SohilK03.SohilK03)
