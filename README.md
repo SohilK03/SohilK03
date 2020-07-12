@@ -41,6 +41,7 @@ Do chek out my repositories and give it a ⭐ if you found something useful.
   </a>
 </div>
 </pre>
+
 ---
 
 ## ⚡ Technologies
