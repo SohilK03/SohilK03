@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there 👋 , I'm **Sohil Khattar**
+
+### 🌎🙋‍♂️ _persistently questioning the world_ 🌎🙋‍♂️
+
+---
+
+I am from **India** :india:. I am an experienced 🕸 Web Developer, aspiring 🔬 Data Scientist and ofcourse an :octocat: active contributor.
 
 <!--
 **SohilK03/SohilK03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
