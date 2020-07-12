@@ -8,9 +8,9 @@
 
 
 
-I am from **India** :india:. I am an experienced 🕸 ***Web Developer***, aspiring 🔬 ***Data Scientist*** and ofcourse an :octocat: ***Active Contributor***.
+<div style='font-size:20px'>I am from **India** :india:. I am an experienced 🕸 ***Web Developer***, aspiring 🔬 ***Data Scientist*** and ofcourse an :octocat: ***Active Contributor***.
 I like to work on new ideas and contribute to the community to make the world a ***better place*** .
-Do chek out my repositories and show some ♥ if you found something useful.
+Do chek out my repositories and show some ♥ if you found something useful.</div>
 
 ---
 <center> 
