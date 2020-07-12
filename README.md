@@ -35,7 +35,7 @@ Do chek out my repositories and give it a ⭐ if you found something useful.
 
 ---
 
-## ⚡ Technologies
+# ⚡ Technologies
 
 Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap,React.js**
