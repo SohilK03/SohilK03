@@ -21,23 +21,20 @@ Do chek out my repositories and show some ♥ if you found something useful.</di
 
 </center>
 <div align='center' style='display:flex;align-items:center;justify-content:center'>
-<a href='https://www.instagram.com/sohilkhattar/'><img height=55 style='margin:4px' src='https://user-images.githubusercontent.com/56331870/87242158-d0060900-c447-11ea-9966-836a89d48b84.png'></a> <a href='https://www.linkedin.com/in/sohil-khattar-444663113/'><img style='margin:4px' height=50 src='https://user-images.githubusercontent.com/56331870/87242298-02fccc80-c449-11ea-9401-631f50c52cda.png'></a>  <a href='https://sohilkhattar.herokuapp.com/'><img height=60 style='margin:4px' src='https://user-images.githubusercontent.com/56331870/87242267-b2856f00-c448-11ea-99bd-599193f0442f.png'></a> <a href='https://www.kaggle.com/sohilkhattar'><img height=45 src='https://user-images.githubusercontent.com/56331870/87242376-b239a380-c449-11ea-94d8-3dde19cc5c3e.png'></a></div>
+  <a href='https://sohilkhattar.herokuapp.com/'><img align=left width="35px"  src='https://user-images.githubusercontent.com/56331870/87245069-f33cb280-c45f-11ea-8127-e3a1e5b2b314.png'></a>
+<a href="https://www.linkedin.com/in/sohil-khattar-444663113/">
+    <img align="left" alt="Sohil Khattar | Linkedin" width="24px" src="https://user-images.githubusercontent.com/56331870/87244912-8bd23300-c45e-11ea-872b-4cf61181b832.png" />
+  </a>
+  <a href="https://twitter.com/KhattarSohil">
+    <img align="left" alt="Sohil Khattar | Twitter" width="26px" src="https://user-images.githubusercontent.com/56331870/87244929-a9070180-c45e-11ea-9946-c238b39a36f5.png" />
+  </a>
+  <a href="https://www.instagram.com/sohilkhattar/">
+    <img align="left" alt="Sohil Khattar | Instagram" width="24px" src="https://user-images.githubusercontent.com/56331870/87244896-6513fc80-c45e-11ea-9563-9a47d7fc5bc5.png" />
+  </a>
+  <a href="mailto:sohilkhattar123@gmail.com">
+    <img align="left" alt="Sohil Khattar | Gmail" width="26px" src="https://user-images.githubusercontent.com/56331870/87244939-c4720c80-c45e-11ea-9ec3-f64c22290562.png" />
+  </a>
+</div>
 
 ---
-
-
-
-<!--
-**SohilK03/SohilK03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```⭐️ From [SohilK03](https://github.com/SohilK03)```
