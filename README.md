@@ -51,7 +51,7 @@ Talk to me about
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/919871624403)
 - ⚡ Fun fact: Banging your head against a wall for one hour burns 150 calories!🤕 (Would rather debug code for one hour 😛) 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SohilK03.SohilK03)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SohilK03.SohilK03)
 
 <h3>
 
